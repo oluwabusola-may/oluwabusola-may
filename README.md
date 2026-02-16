@@ -25,14 +25,14 @@ When I'm not working with data, I enjoy [creating content, reading]. I love the 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Generating a sales queries in SQL.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Tableau.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my Tiktok page.]
+- **Project A:** Generating a sales queries in SQL.  
+- **Project B:** Creating an interactive marketing dashboard in Tableau.
+- **Content Creation:**  Developing new tutorials on data visualization for my Tiktok page
 
 ## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, Python.]
-- [Another skill, Power BI.]
+ 
+Python
+- Power BI
 
 ## 🛠️ Technical Skillset
 
