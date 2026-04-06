@@ -29,11 +29,6 @@ When I'm not working with data, I enjoy [creating content, reading]. I love the 
 - **Project B:** Creating an interactive marketing dashboard in Tableau.
 - **Content Creation:**  Developing new tutorials on data visualization for my Tiktok page
 
-## 🌱 Currently Learning 
- 
-Python
-- Power BI
-
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
