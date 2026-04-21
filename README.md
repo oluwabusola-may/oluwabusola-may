@@ -18,16 +18,16 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy [creating content, reading]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy creating content, connecting with people and reading. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://oluwabusola-may.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Generating a sales queries in SQL.  
-- **Project B:** Creating an interactive marketing dashboard in Tableau.
-- **Content Creation:**  Developing new tutorials on data visualization for my Tiktok page
+- **Project A:** Retail Sales analysis and customer segmentation using Excel, Sql and Power BI(NovaMart Portfolio Project).  
+- **Project B:** Creating an interactive sales dashboard in PowerBI.
+- **Content Creation:**  Sharing data analytics insights and career tips on Linkedin.
 
 ## 🛠️ Technical Skillset
 
@@ -37,8 +37,8 @@ When I'm not working with data, I enjoy [creating content, reading]. I love the 
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Beginner-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Epert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
